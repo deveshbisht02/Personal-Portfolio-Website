@@ -4,7 +4,9 @@ This is a simple personal portfolio website created using HTML, CSS, and JavaScr
 Features:
 
 About Me: Provides a brief introduction and overview of the website owner's skills and experiences.
+
 Portfolio: Showcases various projects with descriptions and links to view more details or the live demos.
+
 Contact: Allows visitors to get in touch with the website owner via a contact form or through provided contact information.
 Responsive Design: Ensures optimal viewing experience across various devices and screen sizes.
 Technologies Used:
