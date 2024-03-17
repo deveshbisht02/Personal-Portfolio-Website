@@ -1,5 +1,4 @@
 # Personal-Portfolio-Website
-This is a simple personal portfolio website created using HTML, CSS, and JavaScript.
 
 The Personal Portfolio Website is a showcase of an individual's skills, experiences, and projects. It serves as a digital resume and a platform to highlight the individual's talents to potential employers, clients, or collaborators. This website typically includes sections such as "About Me," "Portfolio," and "Contact," providing visitors with essential information about the owner and their work.
 
@@ -21,21 +20,6 @@ CSS (Cascading Style Sheets): Utilized for styling the website, including layout
 
 JavaScript: Implemented for adding interactivity and dynamic elements to the website, such as animations, form validation, and interactive user interfaces.
 
-Features:
-About Me: Provides a brief introduction and overview of the website owner's skills and experiences.
-
-Portfolio: Showcases various projects with descriptions and links to view more details or the live demos.
-
-Contact: Allows visitors to get in touch with the website owner via a contact form or through provided contact information.
-
-Responsive Design: Ensures optimal viewing experience across various devices and screen sizes.
-
-Technologies Used:
-HTML: Used for structuring the content of the website.
-
-CSS: Utilized for styling and layout purposes.
-
-JavaScript: Implemented for interactivity and dynamic elements.
 
 Project Structure:
 index.html: Contains the main structure and content of the website.
