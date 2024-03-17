@@ -22,6 +22,7 @@ JavaScript: Implemented for adding interactivity and dynamic elements to the web
 
 
 Project Structure:
+
 index.html: Contains the main structure and content of the website.
 
 styles.css: Houses the CSS styles for styling the website.
